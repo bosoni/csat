@@ -1,4 +1,4 @@
-CSatEng (c) 2008-2014 mjt [matola@sci.fi] 
+CSatEng (c) 2008-2014 mjt
 
 MIT-license (Licenses/csat-license.txt).
 
