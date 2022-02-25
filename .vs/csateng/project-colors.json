@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1c0cf5a-7de8-4a9e-a021-abfcc436a3e6": {
+      "ProjectGuid": "b1c0cf5a-7de8-4a9e-a021-abfcc436a3e6",
+      "DisplayName": "Examples",
+      "ColorIndex": 0
+    },
+    "be7fbe03-6952-4987-9e49-343951b632bf": {
+      "ProjectGuid": "be7fbe03-6952-4987-9e49-343951b632bf",
+      "DisplayName": "CSatEng",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
